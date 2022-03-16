@@ -1,2 +1,4 @@
 #rofi.theme: repos/dotfiles/rofi_theme.rasi
 rofi.theme: repos/rofi-themes/User\ Themes/slate.rasi
+
+# repo: https://github.com/davatorium/rofi-themes/blob/master/User%20Themes/slate.rasi
