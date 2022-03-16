@@ -185,3 +185,6 @@ bindsym $mod+q [class="Gnome-terminal"] scratchpad show; [class="Gnome-terminal"
 exec --no-startup-id nitrogen --restore; sleep 1; picom -C -b
 #exec --no-startup-id picom -C -b
 exec ~/repos/scripts/get-wallpaper.sh
+
+
+# siehe dotfiles/screen für Beispielbild
