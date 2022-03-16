@@ -56,4 +56,3 @@ fi
 export PATH="$PATH:`yarn global bin`"
 
 source /usr/share/doc/find-the-command/ftc.zsh
-
